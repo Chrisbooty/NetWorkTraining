@@ -41,7 +41,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    NSLog(@"%@",NSHomeDirectory());
     
     self.tabBarController.tabBar.tintColor = [UIColor blackColor];
     //初始化界面
